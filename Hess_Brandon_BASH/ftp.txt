@@ -1,0 +1,7 @@
+open mirrors.xmission.com
+user anonumous nothinghere
+ascii
+cd gutenberg
+get GUTINDEX.00
+
+
